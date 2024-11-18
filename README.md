@@ -52,7 +52,7 @@ Framework.
 #### **Clone o repositório**
 
 ```bash
-git clone https://github.com/<SEU_USUARIO>/eventos-api.git
+git clone https://github.com/Eduardo071/eventos-api-python.git
 cd eventos-api
 ```
 
